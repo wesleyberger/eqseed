@@ -9,7 +9,7 @@ function App() {
       <div className="container">
         <Header title='Eqseed - Liquidações' />
           <Routes>
-            <Route path="/" element={<Navigate to="/liquidacao" />} />
+            <Route path="/eqseed" element={<Navigate to="/liquidacao" />} />
             <Route path="/liquidacao" element={<Liquidacao />} />
           </Routes>
       </div>
