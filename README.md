@@ -3,10 +3,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Project Stack:
-    "react": "^18.3.1",
-    "bootstrap": "^5.3.3",
+
+    "react": "^18.3.1"
+
+    "bootstrap": "^5.3.3"
+
     "react-bootstrap": "^2.10.4
-    "axios": "^1.7.7",
+
+    "axios": "^1.7.7"
+
     "qrcode.react": "^4.0.1"
 
 ## Available Scripts
