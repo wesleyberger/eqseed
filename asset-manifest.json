@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eqseed/static/css/main.68bebc7e.css",
-    "main.js": "/eqseed/static/js/main.e4ff7a6c.js",
-    "static/js/453.16a3c974.chunk.js": "/eqseed/static/js/453.16a3c974.chunk.js",
-    "index.html": "/eqseed/index.html",
-    "main.68bebc7e.css.map": "/eqseed/static/css/main.68bebc7e.css.map",
-    "main.e4ff7a6c.js.map": "/eqseed/static/js/main.e4ff7a6c.js.map",
-    "453.16a3c974.chunk.js.map": "/eqseed/static/js/453.16a3c974.chunk.js.map"
+    "main.css": "/static/css/main.68bebc7e.css",
+    "main.js": "/static/js/main.d0a558f8.js",
+    "static/js/453.16a3c974.chunk.js": "/static/js/453.16a3c974.chunk.js",
+    "index.html": "/index.html",
+    "main.68bebc7e.css.map": "/static/css/main.68bebc7e.css.map",
+    "main.d0a558f8.js.map": "/static/js/main.d0a558f8.js.map",
+    "453.16a3c974.chunk.js.map": "/static/js/453.16a3c974.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68bebc7e.css",
-    "static/js/main.e4ff7a6c.js"
+    "static/js/main.d0a558f8.js"
   ]
 }
