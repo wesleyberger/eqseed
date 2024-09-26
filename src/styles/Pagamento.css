@@ -1,0 +1,7 @@
+@media (max-width: 582px) {
+    .customResponsive {
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+    }
+}

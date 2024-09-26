@@ -1,0 +1,12 @@
+.btnSend, .btnFile {
+    width: 190px;
+  }
+
+  .btnControl {
+    max-width: 30rem;
+  }
+@media (max-width: 528px) {
+    .btnFile {
+      margin-right: 0 !important;
+    }	
+  }

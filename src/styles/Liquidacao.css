@@ -1,0 +1,15 @@
+.selected-item {
+  background-color: #caffda !important;
+  color: rgb(0, 97, 57) !important;
+  font-weight: bold;
+}
+
+.selected-item:hover {
+  background-color: #e8fff0;
+}
+
+.list-group-item {
+  display: flex !important;
+  justify-content: space-between !important;
+  color: rgb(0, 97, 57) !important;
+}
